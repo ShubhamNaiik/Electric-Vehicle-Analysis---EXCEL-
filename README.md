@@ -113,6 +113,6 @@ Jaguar leads with an average electric range of 206+ miles, followed by Tesla, Ch
    2. Use data to forecast EV demand and guide future model releases or market entries.
 
 # Conclusion
-- The analysis reveals strong EV growth in select regions and a clear market shift toward BEVs.
+- The analysis reveals strong EV growth in selected regions and a clear market shift toward BEVs.
 - With data-driven actions from stakeholders, the U.S. EV market can achieve faster, smarter, and greener adoption.
 
