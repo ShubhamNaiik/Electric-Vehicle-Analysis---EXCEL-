@@ -49,11 +49,10 @@ The project uses EV registration data with the following key columns:
 - **CAFV Breakdown**: Eligibility status analysis
 
 ##  Key Insights
-## 1. EV Adoption by State##
+###1. EV Adoption by State
 Washington (WA) dominates the dataset with 114,000+ electric vehicles registered, far ahead of California (CA) and Virginia (VA).
 
-#Analysis:#
-Washington's strong EV presence suggests mature infrastructure, favourable incentives, and widespread adoption. This trend reflects the state’s commitment to sustainable transportation and positions it as a benchmark for EV policy implementation in the U.S.
+*Analysis:* Washington's strong EV presence suggests mature infrastructure, favourable incentives, and widespread adoption. This trend reflects the state’s commitment to sustainable transportation and positions it as a benchmark for EV policy implementation in the U.S.
 
    ![image](https://github.com/user-attachments/assets/6849a609-bf0d-4725-8b6c-cdbb783916c6)
 
