@@ -50,19 +50,24 @@ The project uses EV registration data with the following key columns:
 
 ##  Key Insights
 - **Top States**: Washington leads with 114,000+ EVs
+  
     ![image](https://github.com/user-attachments/assets/6849a609-bf0d-4725-8b6c-cdbb783916c6)
 
 - **Vehicle Types**: BEVs make up ~77% of all entries
+  
     ![image](https://github.com/user-attachments/assets/60f0bf91-36da-4d16-8b13-b672cc88c84f)
 
 - **CAFV Eligible**: Over 50% of vehicles meet clean fuel criteria
+  
     ![image](https://github.com/user-attachments/assets/4b6ee8b4-207c-46e5-ae72-6aeb55a93b68)
 
 - **Top Models**: Tesla Model 3 and Y dominate the market
-      ![image](https://github.com/user-attachments/assets/85cd9e7f-34e8-4033-82a8-2b5c487987e6)
+  
+   ![image](https://github.com/user-attachments/assets/85cd9e7f-34e8-4033-82a8-2b5c487987e6)
 
 - **Longest Range**: Jaguar leads with 200+ average miles
-      ![image](https://github.com/user-attachments/assets/a9fbe6b0-0990-482f-b42c-6dc1ba416ac1)
+  
+   ![image](https://github.com/user-attachments/assets/a9fbe6b0-0990-482f-b42c-6dc1ba416ac1)
 
 
 ##  Recommendations
