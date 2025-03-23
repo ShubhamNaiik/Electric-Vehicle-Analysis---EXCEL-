@@ -1,81 +1,73 @@
-# Electric-Vehicle-Analysis  -EXCEL
- Electric Vehicle Analysis Dashboard - 2024
-Project Overview
-This project analyzes electric vehicle (EV) adoption across states, manufacturers, and customer segments in the U.S., based on detailed VIN registration data. The goal is to provide key insights into trends in EV usage, vehicle types, geographic adoption, and performance metrics through an interactive Excel dashboard.
+# ⚡ Electric Vehicle Analysis Dashboard - 2024
 
- Objectives
-1.Understand which states are leading in EV adoption.
+## 📊 Project Overview
+This project analyzes electric vehicle (EV) adoption across U.S. states, manufacturers, and consumer segments using VIN registration data. An interactive Excel dashboard provides insights into electric range, EV types, geographic trends, and clean fuel eligibility to support data-driven decision-making.
 
-2. Analyze the average electric range by manufacturer and model year.
+## 🎯 Objectives
+- Identify states with the highest EV adoption.
+- Compare Battery Electric Vehicles (BEVs) vs Plug-in Hybrid Electric Vehicles (PHEVs).
+- Analyze average electric range by model and manufacturer.
+- Explore Clean Alternative Fuel Vehicle (CAFV) eligibility.
+- Discover top EV manufacturers and best-selling models.
+- Track EV trends over model years and regions.
+- Provide visual KPIs and dashboards for stakeholders.
 
-3. Break down EV types: Battery Electric Vehicles (BEVs) vs Plug-in Hybrid Electric Vehicles (PHEVs).
+## 📁 Dataset Description
+The project uses EV registration data with the following key columns:
 
-4.Discover the most common EV manufacturers and models.
+| Column Name                          | Description |
+|-------------------------------------|-------------|
+| `VIN (1–10)`                        | Unique Vehicle Identifier |
+| `County`, `City`, `State`, `Zip`   | Geographical info |
+| `Model Year`                        | Year of manufacture |
+| `Make`, `Model`                     | Manufacturer and model |
+| `Electric Vehicle Type`            | BEV or PHEV |
+| `CAFV Eligibility`                 | Clean fuel compliance status |
+| `Electric Range`                   | Max miles on full charge |
+| `Base MSRP`                        | Manufacturer suggested price |
+| `Electric Utility`                 | Utility provider |
+| `Vehicle Location`                 | Geo-coordinates |
+| `Census Tract`                     | Demographic location data |
 
-5. Segment data by Clean Alternative Fuel Vehicle (CAFV) eligibility.
+## 🧹 Data Preparation
+- Converted raw data into structured Excel tables for easier referencing.
+- Cleaned and standardized column formats.
+- Used `COUNTIF`, `AVERAGEIFS`, and `INDEX-MATCH` for calculations.
+- Built PivotTables and PivotCharts to summarize and filter data.
+- Created slicers for interactive dashboard navigation.
 
-6. Visualize KPIs such as total number of EVs, average electric range, and adoption trend over time.
+## 📊 Dashboard Features
+- **KPI Cards**: Total EVs, Average Electric Range
+- **State Map View**: EV counts by state
+- **Model Year Trend**: Yearly growth of EVs
+- **Top EV Models**: Most popular by count
+- **Electric Range by Manufacturer**: Compare average range
+- **CAFV Breakdown**: Eligibility status analysis
 
-Dataset Description
-The primary dataset was sourced from state EV registration data and contains the following fields:
+## 🔍 Key Insights
+- **Top States**: Washington leads with 114,000+ EVs
+- **Vehicle Types**: BEVs make up ~77% of all entries
+- **CAFV Eligible**: Over 50% of vehicles meet clean fuel criteria
+- **Top Models**: Tesla Model 3 and Y dominate the market
+- **Longest Range**: Jaguar leads with 200+ average miles
 
-Column Name	Description
-VIN (1–10)	Unique Vehicle Identifier
-County, City, State, Zip	Geographical details
-Model Year	Year of manufacture
-Make, Model	Manufacturer and model
-Electric Vehicle Type	BEV or PHEV
-CAFV Eligibility	Clean fuel compliance status
-Electric Range	Max range in miles on electric
-Base MSRP	Manufacturer suggested retail price
-Legislative District	District representation
-Electric Utility	Electricity provider
-Vehicle Location (Geo-coordinates)	Used for mapping
-2020 Census Tract	Demographic segmentation
-🔧 Data Preparation
-Structured Tables were created using Excel’s Table feature (CTRL + T) for referencing across dashboards.
+## ✅ Recommendations
+- **Policy Makers**: Expand infrastructure in WA, CA, and high-growth states
+- **Auto Industry**: Increase high-range BEV availability
+- **Utility Providers**: Target EV-heavy districts for collaboration
+- **Marketing Teams**: Focus campaigns on BEV and CAFV-compliant models
 
-Used PivotTables & PivotCharts to extract segmented insights.
+## 📂 Files Included
+- 📊 `Electric Vehicle Analysis.xlsx` – Contains the full interactive dashboard.
+- 📄 `README.md` – This summary documentation.
 
-Cleaned and standardized data types, especially for zip codes, vehicle types, and manufacturer names.
+## 📌 How to Use
+1. Open the Excel file.
+2. Navigate to the `Dashboard` sheet.
+3. Use slicers and filters to explore trends by state, vehicle type, and manufacturer.
 
-Grouped and summarized data using Excel functions such as COUNTIF, AVERAGEIFS, and structured references.
+---
 
-📈 Dashboard Highlights
-KPI Cards: Display total number of EVs and average electric range.
+### 🚀 Created with Excel, PivotTables, and Data Storytelling in Mind.
 
-State-wise Map View: Highlights adoption rates, with WA, CA, and VA leading in registrations.
-
-Model Year Analysis: Shows the growing adoption of EVs post-2017.
-
-Top Manufacturers: Tesla, Chevrolet, Nissan, and BMW lead the market.
-
-Electric Range by Manufacturer: Jaguar and Tesla have the highest average ranges.
-
-CAFV Eligibility Breakdown: Majority of vehicles are eligible for clean alternative fuel benefits.
-
-📌 Key Insights
-Top States: Washington (WA) has the highest count of EVs at 114,000+.
-
-Top EV Type: Battery Electric Vehicles (BEVs) make up over 76% of the dataset.
-
-CAFV Eligibility: 50%+ vehicles are certified as clean fuel eligible.
-
-Model Trends: Tesla Model 3 and Model Y dominate with consistently high range and registration count.
-
-Range Leaders: Jaguar leads average electric range at over 200 miles.
-
-✅ Recommendations
-Policy Makers: Focus on infrastructure support in high-adoption areas like WA and CA.
-
-Manufacturers: Increase availability of high-range, CAFV-eligible models in emerging states.
-
-Marketers: Target campaigns toward eco-conscious consumers in top-performing regions.
-
-Energy Providers: Strategize partnerships in districts with high EV counts.
-
-📁 Files Included
-Electric Vehicle Analysis.xlsx: Full dashboard with slicers and interactive visualizations.
-
-README.md: Project summary and insights (this file).
 
