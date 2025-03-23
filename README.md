@@ -100,19 +100,19 @@ Jaguar leads with an average electric range of 206+ miles, followed by Tesla, Ch
 1. Prioritize development of Battery Electric Vehicles (BEVs) to match consumer trends.
 2. Improve battery range for hybrid models to qualify for clean fuel programs (CAFV).
 
--**Marketing & Sales Teams**
+- **Marketing & Sales Teams**
 1. Launch targeted campaigns in high-adoption states like WA and CA.
 2. Promote EVs with CAFV eligibility and sustainability features to eco-conscious buyers.
 
--**Electric Utility Providers**
+- **Electric Utility Providers**
 1. Partner with automakers to bundle home charging solutions with EV sales.
 2. Develop off-peak charging plans to reduce grid stress and support EV owners.
 
--**Analysts & Decision-Makers**
+- **Analysts & Decision-Makers**
 1. Track underperforming states to identify and resolve adoption barriers.
 2. Use data to forecast EV demand and guide future model releases or market entries.
 
 # Conclusion
--The analysis reveals strong EV growth in select regions and a clear market shift toward BEVs.
--With data-driven actions from stakeholders, the U.S. EV market can achieve faster, smarter, and greener adoption.
+- The analysis reveals strong EV growth in select regions and a clear market shift toward BEVs.
+- With data-driven actions from stakeholders, the U.S. EV market can achieve faster, smarter, and greener adoption.
 
