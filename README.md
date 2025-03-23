@@ -49,23 +49,50 @@ The project uses EV registration data with the following key columns:
 - **CAFV Breakdown**: Eligibility status analysis
 
 ##  Key Insights
-- **Top States**: Washington leads with 114,000+ EVs
-  
-    ![image](https://github.com/user-attachments/assets/6849a609-bf0d-4725-8b6c-cdbb783916c6)
+- 1. EV Adoption by State
+Insight: Washington (WA) dominates the dataset with 114,000+ electric vehicles registered, far ahead of California (CA) and Virginia (VA).
 
-- **Vehicle Types**: BEVs make up ~77% of all entries
-  
-    ![image](https://github.com/user-attachments/assets/60f0bf91-36da-4d16-8b13-b672cc88c84f)
+Trend & Analysis:
+Washington's strong EV presence suggests mature infrastructure, favorable incentives, and widespread adoption. This trend reflects the state’s commitment to sustainable transportation and positions it as a benchmark for EV policy implementation in the U.S.
 
-- **CAFV Eligible**: Over 50% of vehicles meet clean fuel criteria
-  
-    ![image](https://github.com/user-attachments/assets/4b6ee8b4-207c-46e5-ae72-6aeb55a93b68)
+   ![image](https://github.com/user-attachments/assets/6849a609-bf0d-4725-8b6c-cdbb783916c6)
 
-- **Top Models**: Tesla Model 3 and Y dominate the market
+- 2. Battery Electric Vehicles (BEVs) Lead the Market
+Insight: BEVs represent approximately 77% of all electric vehicles, with the remaining share held by Plug-in Hybrid Electric Vehicles (PHEVs).
+
+Trend & Analysis:
+The market is clearly shifting toward fully electric vehicles, driven by advances in battery technology, longer range, and zero-emission incentives. This shows a growing consumer preference for cleaner and more future-ready mobility solutions.
+  
+  ![image](https://github.com/user-attachments/assets/60f0bf91-36da-4d16-8b13-b672cc88c84f)
+
+ 3. Clean Fuel Eligibility
+Insight: Over 50% of the vehicles qualify as Clean Alternative Fuel Vehicles (CAFV), while a significant portion lacks eligibility due to limited battery range.
+
+Trend & Analysis:
+Manufacturers are increasingly focused on meeting clean fuel criteria, which aligns with federal and state regulations. However, there's still a notable gap in vehicles falling short—highlighting opportunities for innovation and compliance-focused upgrades.
+  
+   ![image](https://github.com/user-attachments/assets/4b6ee8b4-207c-46e5-ae72-6aeb55a93b68)
+
+4. Top Manufacturers and Models
+Insight: Tesla is the leading brand, with the Model 3 and Model Y among the top registered EVs. Other notable brands include Chevrolet and Nissan.
+
+Trend & Analysis:
+Tesla’s dominance is due to its advanced technology, superior range, and strong brand equity. Chevrolet and Nissan show consistent performance, especially among early adopters. This data can guide competitors in benchmarking product performance and customer loyalty.
   
    ![image](https://github.com/user-attachments/assets/85cd9e7f-34e8-4033-82a8-2b5c487987e6)
 
-- **Longest Range**: Jaguar leads with 200+ average miles
+5. Model Year Growth
+Insight: A steep increase in EV adoption is visible from 2017 onward, with exponential growth in recent years.
+
+Trend & Analysis:
+This reflects industry-wide momentum post-2016 when multiple manufacturers launched high-range models. Government rebates and consumer awareness also contributed to the surge. Expect continued upward trends with upcoming federal EV initiatives.
+
+
+6. Average Electric Range by Manufacturer
+Insight: Jaguar leads with an average electric range of 206+ miles, followed by Tesla, Chevrolet, and others.
+
+Trend & Analysis:
+Manufacturers are investing in battery efficiency to stay competitive. Longer range not only appeals to urban users but also helps overcome range anxiety—a major adoption barrier. Highlighting this metric supports consumer education and industry benchmarking.
   
    ![image](https://github.com/user-attachments/assets/a9fbe6b0-0990-482f-b42c-6dc1ba416ac1)
 
