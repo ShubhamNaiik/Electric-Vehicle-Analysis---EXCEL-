@@ -1,4 +1,4 @@
-#  Electric Vehicle Analysis Dashboard - 2024
+#  Electric Vehicle Analysis Dashboard 
 
 ##  Project Overview
 This project analyzes electric vehicle (EV) adoption across U.S. states, manufacturers, and consumer segments using VIN registration data. An interactive Excel dashboard provides insights into electric range, EV types, geographic trends, and clean fuel eligibility to support data-driven decision-making.
